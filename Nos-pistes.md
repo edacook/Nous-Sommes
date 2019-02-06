@@ -6,6 +6,8 @@ date : 06/02/2019
 ---
 # Nos pistes cyclables
 
+![Leur pistes](http://images-mds.staticskynet.be/NewsFolder/original/3_fietspaden_new_landscape_20151001023918.jpg)
+
 ## Co-construire l’urbanisme
 
 Nous nous posons la question de savoir comment co-construire un programme pendant la période de la campagne et mettre en place les outils qui nous permettrons d'avoir une gouvernance plus ouverte et partagée.
