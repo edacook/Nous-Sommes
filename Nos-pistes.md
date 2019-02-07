@@ -34,7 +34,7 @@ C'est l'idée qui préside à VélObs, uen plateforme qui se propose d'open-sour
 
 Peut être le fait que les "cas" recensés affichent un statut "non défini" de la part des pouvoirs publics expliquent le faible taux d'utilisation. Pour le dire clairement il semblerait que la municipalité s'en tamponne.
 
-![Leur pistes](https://github.com/edacook/Nous-Sommes/blob/master/assets/Observations.png)
+![Leur pistes](assets/Observations.png)
 
 Nous pouvons imaginer que si une telle plateforme est associée à une forte volonté politique de changement, elle pourrait provoquer une plus forte adhésion.
 
