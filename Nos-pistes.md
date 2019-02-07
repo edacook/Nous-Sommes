@@ -30,9 +30,11 @@ C'est la même logique que nous allons déployer pour toutes les questions d'env
 
 Nous pouvons mettre en place très rapidement une petite plateforme (Yeswiki/OpenStreetMap) qui recense les trajets des usagers à vélo afin d'identifier les manques d'aménagement. Dans la même logique, nous pouvons recenser les carrefours dangereux, les aménagements défaillants, les trajets dangereux ou désagréables ...
 
-C'est l'idée qui préside à VélObs, uen plateforme qui se propose d'open-sourcer les besoins d'aménagement dans une optique de médiation avec les pouvoirs publics.
+C'est l'idée qui préside à VélObs, uen plateforme qui se propose d'open-sourcer les besoins d'aménagement "dans le but d’arriver à un dialogue constructif avec l’autorité en charge de la voirie, c’est-à-dire généralement la Métropole de Montpellier."
 
 Peut être le fait que les "cas" recensés affichent un statut "non défini" de la part des pouvoirs publics expliquent le faible taux d'utilisation. Pour le dire clairement il semblerait que la municipalité s'en tamponne.
+
+![Leur pistes](https://github.com/edacook/Nous-Sommes/blob/master/assets/Observations.png)
 
 Nous pouvons imaginer que si une telle plateforme est associée à une forte volonté politique de changement, elle pourrait provoquer une plus forte adhésion.
 
