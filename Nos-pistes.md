@@ -6,7 +6,7 @@ date : 06/02/2019
 ---
 # Nos pistes cyclables
 
-![Leur pistes](http://images-mds.staticskynet.be/NewsFolder/original/3_fietspaden_new_landscape_20151001023918.jpg)
+![Leur pistes](assets/Cartographier_les_acteurs.jpg)
 
 ## Co-construire l’urbanisme
 
@@ -30,11 +30,11 @@ C'est la même logique que nous allons déployer pour toutes les questions d'env
 
 Nous pouvons mettre en place très rapidement une petite plateforme (Yeswiki/OpenStreetMap) qui recense les trajets des usagers à vélo afin d'identifier les manques d'aménagement. Dans la même logique, nous pouvons recenser les carrefours dangereux, les aménagements défaillants, les trajets dangereux ou désagréables ...
 
-C'est l'idée qui préside à VélObs, uen plateforme qui se propose d'open-sourcer les besoins d'aménagement "dans le but d’arriver à un dialogue constructif avec l’autorité en charge de la voirie, c’est-à-dire généralement la Métropole de Montpellier."
+C'est l'idée qui préside à VélObs, uen plateforme qui se propose d'open-sourcer les besoins d'aménagement "dans le but d’arriver à un dialogue constructif avec l’autorité en charge de la voirie, c’est-à-dire généralement la Métropole de Montpellier."**[1](#note)**
 
 Peut être le fait que les "cas" recensés affichent un statut "non défini" de la part des pouvoirs publics expliquent le faible taux d'utilisation. Pour le dire clairement il semblerait que la municipalité s'en tamponne.
 
-![Leur pistes](assets/Observations.png)
+![Leur pistes](assets/Observations.png)**[1](#note)**
 
 Nous pouvons imaginer que si une telle plateforme est associée à une forte volonté politique de changement, elle pourrait provoquer une plus forte adhésion.
 
@@ -69,3 +69,8 @@ Ces plateformes rassemblent des cyclistes qui mettent en commun leur données de
 Ces données doivent probablement être plus faciles à collecter et pourraient constituer un bon point de départ. (HAV)
 
 Il s'agit peut être de données moins généralistes et plus orientées loisir. Qui sont les utilisateurs ? Dans quel cadre collectent-ils leurs données ? (HAV)
+
+## Sources
+<a id="note">
+* **1** [Vélocité](https://www.velocite-montpellier.fr/pratique/carte/)
+</a>
